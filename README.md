@@ -20,3 +20,5 @@ I am a passionate IT student at Xavier University, driven by a curiosity for tec
 ## 🏆 Achievements
 - 🌟 Completed Git & GitHub Setup 2025
 - 🔭 I’m currently working on my final API project.
+
+Thanks for stopping by!
