@@ -21,4 +21,7 @@ I am a passionate IT student at Xavier University, driven by a curiosity for tec
 - 🌟 Completed Git & GitHub Setup 2025
 - 🔭 I’m currently working on my final API project.
 
+## Fun Fact 
+- I'm a matcha addict :))
+
 Thanks for stopping by!
